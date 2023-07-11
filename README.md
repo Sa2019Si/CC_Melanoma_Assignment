@@ -6,7 +6,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -35,11 +35,6 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by Upgrad CNN Assignment
-- Augmentor guide: https://augmentor.readthedocs.io/en/master/
-- Keras: ttps://keras.io/guides/
 
 
 <!-- Optional -->
